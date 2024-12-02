@@ -1,0 +1,8 @@
+# vs code
+.vscode/
+
+# macOS
+.DS_Store
+
+# input files
+*.txt
